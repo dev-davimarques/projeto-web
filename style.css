@@ -10,3 +10,15 @@ ul, ol, p, a{
     font-size: 2rem;
     color: azure;
 }
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: blue;
+}
+
+h1 {
+    text-align: center;
+}

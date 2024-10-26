@@ -9,6 +9,20 @@ img{
     width: 200px;
 }
 
-div{
+
+#div1{
+    border: 5px dashed;
+}
+
+#div2{
     border: 5px solid;
 }
+
+#div3{
+    border: 5px dotted;
+}
+
+#div4{
+    border: 5px ridge;
+}
+
